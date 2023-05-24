@@ -1,5 +1,5 @@
 
-# PROYECTO INDIVIDUAL N°1 - DATA ENGINEER
+# PROYECTO INDIVIDUAL N°2 - DATA Analitys
 
 Rol a desarollar : 
 - Data Analitys
